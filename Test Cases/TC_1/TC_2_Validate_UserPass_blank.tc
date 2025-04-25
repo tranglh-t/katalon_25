@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2_Validate_UserPass_blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac54e9f6-705b-47f1-8a2f-c3999b48c109</testCaseGuid>
+</TestCaseEntity>

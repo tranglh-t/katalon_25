@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4_Validate_Pass_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5da4e20e-bd4b-40a2-aba3-378014d3a77d</testCaseGuid>
+</TestCaseEntity>

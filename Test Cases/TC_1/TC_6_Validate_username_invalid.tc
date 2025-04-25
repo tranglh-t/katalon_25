@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_6_Validate_username_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e62ffd9e-d061-4de9-bd3d-f87a3a88bfba</testCaseGuid>
+</TestCaseEntity>

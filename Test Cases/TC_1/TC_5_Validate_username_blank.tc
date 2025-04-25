@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_5_Validate_username_blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c01a6baa-9e68-4186-8b11-dd7fe6b1c5eb</testCaseGuid>
+</TestCaseEntity>

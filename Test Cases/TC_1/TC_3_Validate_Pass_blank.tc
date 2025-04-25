@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_3_Validate_Pass_blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a67d476d-fc33-47d1-8b70-84937d172f68</testCaseGuid>
+</TestCaseEntity>
